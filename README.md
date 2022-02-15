@@ -24,7 +24,7 @@ npm run start
 ```
 It uses nodemon for livereloading :peace-fingers:
 
-# API Validation
+## API Validation
 
  By using [celebrate](https://github.com/arb/celebrate), the req.body schema becomes cleary defined at route level, so even frontend devs can read what an API endpoint expects without needing to write documentation that can get outdated quickly.
 
