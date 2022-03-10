@@ -9,7 +9,7 @@ import "./base/token/KIP17/KIP17Pausable.sol";
 
 // @title Admin contract for Who1. Holds owner-only functions to adjust
 //        fee, contract lists, parameters, etc.
-contract WhoneAdmin is Ownable, Pausable, ReentrancyGuard {
+contract Who1Admin is Ownable, Pausable, ReentrancyGuard {
 
     /* ****** */
     /* EVENTS */
